@@ -1,7 +1,7 @@
 {
   "name": "nestr",
-  "version": "0.0.1",
-  "description": "nestr is a solution that helps you cluster nodejs http apps and notonly, useful for taking advantage of multicore in nodejs systems",
+  "version": "0.0.2",
+  "description": "nestr is a solution that helps you cluster nodejs http apps and not only, useful for taking advantage of multicore in nodejs systems",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
